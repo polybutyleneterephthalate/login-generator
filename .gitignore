@@ -1,3 +1,11 @@
 target
-.ioea
 *.iml
+.idea
+.idea/compiler.xml
+.idea/encodings.xml
+.idea/inspectionProfiles/
+.idea/libraries/
+.idea/misc.xml
+.idea/modules.xml
+.idea/workspace.xml
+src/
